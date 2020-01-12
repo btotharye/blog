@@ -33,3 +33,9 @@ enableRobotsTXT = true
   featured_image = "/images/container-bg.jpg"
   recent_posts_number = 2
   disqusShortname = "btotharye-1"
+  description: A DevOps blog featuring articles around AWS, Chatbots including Rasa, and other cool tech related articles.
+  images:
+  - container-bg.jpg
+  title: Life of Brian - A DevOps and Tech Blog
+taxonomies:
+  series: series
