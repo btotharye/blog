@@ -1,4 +1,4 @@
-baseURL = "https://www.btotharye.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Life of Brian - A DevOps and Tech Blog"
 theme = "ananke"
