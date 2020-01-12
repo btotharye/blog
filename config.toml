@@ -1,0 +1,35 @@
+baseURL = "https://www.btotharye.com"
+languageCode = "en-us"
+title = "Life of Brian - A DevOps and Tech Blog"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Life of Brian - A DevOps and Tech Blog"
+  facebook = ""
+  twitter = "https://twitter.com/br1anhopkins"
+  instagram = ""
+  youtube = ""
+  github = "https://www.github.com/btotharye"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/container-bg.jpg"
+  recent_posts_number = 2
+  disqusShortname = "btotharye-1"
